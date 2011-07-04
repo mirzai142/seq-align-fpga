@@ -1,0 +1,16 @@
+#summary A brief inside into Human Gnomes Project
+
+
+Completed in 2003, the *Human Genome Project (HGP)* was a 13-year project coordinated by the U.S. Department of Energy and the National Institutes of Health. During the early years of the HGP, the Wellcome Trust (U.K.) became a major partner; additional contributions came from Japan, France, Germany, China, and others. See our history page for more information.
+
+*Project goals were to:*
+
+   * identify all the approximately 20,000-25,000 genes in human DNA,
+   * determine the sequences of the 3 billion chemical base pairs that make up human DNA,
+   * store this information in databases,
+   * improve tools for data analysis,
+   * transfer related technologies to the private sector, and
+   * address the ethical, legal, and social issues (ELSI) that may arise from the project.
+
+
+_Source: ornl.gov_
