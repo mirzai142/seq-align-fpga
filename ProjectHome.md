@@ -1,0 +1,1 @@
+We develop HDL code for FPGA translated from the C/C++ code of various genome sequence alignment algorithms. Optimising and hardware-software co-design of the alignment algorithms is done to obtain speed-up.
